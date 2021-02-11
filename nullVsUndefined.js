@@ -9,6 +9,6 @@
 //     console.log(num1 , num2);
 // }
 
-const premik = {name: 'smart muno', phone:01743443344 };
+// const premik = {name: 'smart muno', phone:01743443344 };
 
 console.log(premik.gf);
